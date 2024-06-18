@@ -37,7 +37,7 @@
     "magmastream": "^2.3.0",
     "moment": "^2.29.1",
     "mongoose": "^7.5.2",
-    "puppeteer": "^21.3.1",
+    "puppeteer": "^22.11.2",
     "r6api.js": "^4.0.0",
     "radio-browser": "^2.2.3",
     "simple-node-logger": "^21.8.12",
